@@ -9,5 +9,3 @@ AFINN.txt is the list of words and their sentiments which is passed as argv[1]
 A database of tweets extracted from twitter is passed as argv[2]
 
 <br>
-<hr>
-
