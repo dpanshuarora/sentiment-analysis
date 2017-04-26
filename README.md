@@ -5,4 +5,5 @@ It then caluclates the sentiment values of the tweets based on the sentiment sco
 The tweets along with their scores are saved to a python list.
 
 AFINN.txt is the list of words and their sentiments which is passed as argv[1]
+<br>
 output.txt is a json database of tweets and is passed as argv[2]
