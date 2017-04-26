@@ -6,4 +6,8 @@ The tweets along with their scores are saved to a python list.
 
 AFINN.txt is the list of words and their sentiments which is passed as argv[1]
 <br>
-output.txt is a json database of tweets and is passed as argv[2]
+A database of tweets extracted from twitter is passed as argv[2]
+
+<br>
+<hr>
+
