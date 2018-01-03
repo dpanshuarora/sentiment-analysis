@@ -1,6 +1,6 @@
 # sentiment-analysis
 
-It creates a dictionary from the AFINNFILE which contains a list of words and their scores which were compiled manually.
+It creates a dictionary from AFINN-111.txt which contains a list of words and their scores which were compiled manually.
 It then caluclates the sentiment values of the tweets based on the sentiment scores of the words.
 The tweets along with their scores are saved to a python list.
 
